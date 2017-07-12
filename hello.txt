@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 sdfgsjdgjksdaf
+=======
+hey !!
+>>>>>>> 77474a8ad2436c0e4091c96302ddc5c2719e74b5
